@@ -2,4 +2,5 @@
 
 - RESTy Phase 1: Begin work on the RESTy API testing application
 
-![img](UML class26.jpg)
+![img](UMLclass26.jpg)
+![img](fetch.png)
