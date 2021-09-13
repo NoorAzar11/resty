@@ -1,0 +1,26 @@
+$backgroundColor: #8f8b91;
+$radius: 40%;
+
+form {
+  display: inline-block;
+  margin: auto;
+  width: 200px;
+
+  label {
+    display: flex;
+    margin: 1rem 0;
+
+    &.methods {
+      span {
+        cursor: pointer;
+        margin-right: 1rem;
+        padding: .25rem .5rem;
+        background: rgb(61, 60, 61);
+
+        &:hover, &.active {
+          background: rgb(112, 102, 102);
+        }
+      }
+    }
+  }
+}
